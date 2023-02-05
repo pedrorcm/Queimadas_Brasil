@@ -5,25 +5,25 @@ Esse repositório foi utilizado para realizar o upload do desafio para **Monitor
 Tendo em vista o escopo da vaga, os processos realizados nos dados do **notebook** serão acompanhados de dicas, instruções do que está sendo realizado. Em alguns momentos foi necessário desenvolver textos mais longos para explicar as situações.
 
 
-<h2>🎯 <i>Objetivo</i></h2>
+<h2>🎯 Objetivo</h2>
     
 Simular um processo de ETL e criação de um Dashboard para demonstração dos resultados.
 
-<h2>⚙ <i>Requisitos Obrigatórios</i></h2>
+<h2>⚙ Requisitos Obrigatórios</h2>
 
 <li>No tratamento dos dados utilizar linguagem Python, exemplificando operações de estruturas de dados;</li>
 <li>Utilizar a biblioteca Pandas para o tratamento;</li>
 <li>Gerar gráficos de visualização com a biblioteca Matplotlib;</li>
 <li>No Power BI, utilizar todas as colunas que permaneceram no dataset final.
 
-<h2>⚙ <i>Requisitos Desejáveis</i></h2>
+<h2>⚙ Requisitos Desejáveis</h2>
 
 <li>Explore bibliotecas para o tratamento além do Pandas;</li>
 <li>Realize conversões entre os tipos de dados das colunas do dataset;</li>
 <li>Adicione novos valores ao dataset sem alterar o propósito do mesmo.</li>
 
 
-<h2>⚠<i>Aviso sobre os dados</i></h2>
+<h2>⚠Aviso sobre os dados</h2>
 
 Durante a execução do projeto, é possível notar uma grande quantidade de dados repetidos, comprometidos, de forma que a realização de plots ficava comprometida, pois haviam estados faltantes por estarem com seus valores misturados a outros estados. 
 
@@ -51,7 +51,7 @@ Os dados utilizados são os mesmos do dataset disponibilizado pela Resilia no Ka
     
     - Criação de dashboards no PowerBI
     
-<h2>📫 <i>Entrega</i></h2>
+<h2>📫 Entrega</h2>
 
 Para realizar a entrega de acordo com as especificações pedidas, estão presentes no repositório:
 > 1. Readme.md
@@ -64,7 +64,7 @@ Para realizar a entrega de acordo com as especificações pedidas, estão presen
 >
 > 5. Pasta contendo 3 conjuntos de dados (Kaggle/Fonte Primária/Fonte Primária após tratamento)
 
-<h2>✍<i>Autor - Contato</i></h2>
+<h2>✍Autor - Contato</h2>
 
 Pedro Rocha Campos - <a href="www.linkedin.com/in/pedrorcampos/">Linkedin</a> - programapedror@gmail.com 
 
